@@ -5,6 +5,7 @@
 #include "hardware/i2c.h"
 #include "lib/ssd1306.h"
 #include "lib/font.h"
+#include "hardware/clocks.h"
 #include <string.h>
 #include "hardware/pio.h"
 #include "pio_matrix.pio.h"
